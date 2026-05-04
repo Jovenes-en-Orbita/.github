@@ -1,4 +1,11 @@
-## Jovenes en Orbita 👋
+## Jovenes en Orbita
+
+Somos una organización civil sin fines de lucro, liderada por jóvenes argentinos, que promueve la divulgación científica espacial y la democratización de oportunidades STEM enfocadas en el Cosmos.
+
+## Misión
+
+
+
 
 <!--
 
