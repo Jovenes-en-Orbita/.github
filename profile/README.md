@@ -1,12 +1,12 @@
 ## Jovenes en Orbita
 
-Somos una organización civil sin fines de lucro, liderada por jóvenes argentinos, que promueve la divulgación científica espacial y la democratización de oportunidades STEM enfocadas en el Cosmos. 
+🤝 Somos una organización civil sin fines de lucro, liderada por jóvenes argentinos, que promueve la divulgación científica espacial y la democratización de oportunidades STEM enfocadas en el Cosmos. 
 
 
 En Jóvenes en Órbita buscamos impulsar a jóvenes a aprender, observar y mirar más lejos de lo que creen posible. ¿Cómo? Promoviendo el interés por la astronomía y la educación científica espacial; generando oportunidades educativas y espacios de divulgación; y llevando a cabo diferentes proyectos que inspiran a nuevos jóvenes a involucrarse activamente en el sector espacial. 🧑‍🚀
 
 
-Dedicamos nuestros esfuerzos a reducir la brecha en el acceso a la educación STEM. 🧑‍🏫 Como organización alineamos nuestra labor con el Objetivo de Desarrollo Sostenible (ODS) 4 de la ONU, integrando sus metas globales como el eje estratégico que define nuestra identidad y guía cada una de nuestras acciones.
+🧑‍🏫 Dedicamos nuestros esfuerzos a reducir la brecha en el acceso a la educación STEM. Como organización alineamos nuestra labor con el Objetivo de Desarrollo Sostenible (ODS) 4 de la ONU, integrando sus metas globales como el eje estratégico que define nuestra identidad y guía cada una de nuestras acciones.
 
 ## Misión
 💫**Inspirar**: Fomentamos el interés en las áreas STEM desde edades tempranas.
