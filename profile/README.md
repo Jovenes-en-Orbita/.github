@@ -17,8 +17,12 @@ En Jóvenes en Órbita buscamos impulsar a jóvenes a aprender, observar y mirar
  
  🌐**Conectar**: Visibilizamos caminos posibles hacia la industria espacial y construimos una red de jóvenes comprometidos con el desarrollo científico.
 
+
+
 ## Valores
  ☑️ Respeto ☑️ Integridad ☑️ Compromiso ☑️ Colaboración
+
+
 
 ## Redes Sociales
 Conocé más sobre nosotros y sumergite en el mundo aeroespacial en:
